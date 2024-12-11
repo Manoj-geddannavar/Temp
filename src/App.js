@@ -6,7 +6,7 @@ function App() {
 
   
   const images = [
-    { name: "Image 1", src: "Temp/public/images/IMG-20241211-WA0015.jpg" },
+    { name: "Image 1", src: "/Temp/public/images/IMG-20241211-WA0015.jpg" },
     { name: "Image 2", src: "/images/IMG-20241211-WA0016.jpg" },
     { name: "Image 3", src: "/images/IMG-20241211-WA0017.jpg" },
     { name: "Image 4", src: "/images/IMG-20241211-WA0024.jpg" },
